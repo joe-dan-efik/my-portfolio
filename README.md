@@ -4,3 +4,5 @@ See About Me: about.md
 
 ## Projects
 - Git Basics Project
+- DevOps Lab 1
+- CI/CD Pipeline Project
