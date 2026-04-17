@@ -4,3 +4,4 @@ See About Me: about.md
 
 ## Projects
 - DevOps Lab 1
+- CI/CD Pipeline Project
