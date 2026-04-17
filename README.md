@@ -3,5 +3,4 @@ hello instructor,i don't know how long it will take but i will be like you somed
 See About Me: about.md
 
 ## Projects
-- DevOps Lab 1
-- DevOps Lab Main Version
+- Git Basics Project
